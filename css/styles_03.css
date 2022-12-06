@@ -1,0 +1,19 @@
+body {
+    background-image: url('https://www.bing.com/images/search?view=detailV2&ccid=dNUSL4cP&id=ABD8F21D1E9C6FF2792430ED343FB5C03B5D2555&thid=OIP.dNUSL4cPeF2FTY9qeef4DgAAAA&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.74d5122f870f785d854d8f6a79e7f80e%3frik%3dVSVdO8C1PzTtMA%26riu%3dhttp%253a%252f%252fstatic4.businessinsider.com%252f%257e%257e%252ff%253fid%253d50fea96c69bedde91f000005%26ehk%3dmtOCgd0Vy4y%252fbBjO4c7VxAxbKaN1dnqfJBJgiUwK%252bo8%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=225&expw=400&q=ray+lewis+dance+gif&simid=608044980272759806&FORM=IRPRST&ck=005B1B5CEA8F3F72EC85ABB90B6989CD&selectedIndex=2');
+}
+
+body {
+    font-size: 1.2em;
+    font-family: 'Diplomata SC', cursive;
+    style="word-spacing: 15px;"
+    text-align: center;
+    color: white;
+
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+  color:#ffffff;
+  font-size: 80pt;
+  text-align: center;
+}
